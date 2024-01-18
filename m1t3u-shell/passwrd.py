@@ -30,3 +30,8 @@ print("Mot de passe sauvegardé dans le trousseau.")
 retrieved_password = retrieve_password_from_keyring(service_name, username)
 print(f"Mot de passe récupéré depuis le trousseau: {retrieved_password}")
 
+
+retrivied_password = 
+retrivied_password_from_keyring(service_name, username)
+print(f"Mot de passe récupérer depuis le trousseau: {retrived_password}") 
+
